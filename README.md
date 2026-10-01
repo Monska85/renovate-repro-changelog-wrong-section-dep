@@ -1,7 +1,7 @@
 # renovate-repro-changelog-wrong-section-dep
 
 > **Temporary repository.** Created on 2026-10-01 only as a minimal reproduction for
-> renovatebot/renovate discussion <DISCUSSION_URL>. It has no other purpose.
+> renovatebot/renovate discussion https://github.com/renovatebot/renovate/discussions/46628. It has no other purpose.
 > Delete or archive it once that discussion is closed.
 
 Dependency side of the Renovate minimal reproduction in
